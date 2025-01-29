@@ -25,7 +25,7 @@ export default [
       '@typescript-eslint/explicit-module-boundary-types': 'off',
       '@typescript-eslint/no-explicit-any': 'warn',
     },
-  }
+  },
 
   // {files: ["**/*.{js,mjs,cjs,ts}"]},
   // {files: ["**/*.js"], languageOptions: {sourceType: "commonjs"}},
